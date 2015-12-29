@@ -1,0 +1,6 @@
+prefix-key +  &  --> kills the window
+tmux list-commands  --> execute this within tmux
+
+man tmux
+
+
